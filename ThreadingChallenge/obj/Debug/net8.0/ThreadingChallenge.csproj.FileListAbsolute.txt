@@ -1,0 +1,14 @@
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\bin\Debug\net8.0\ThreadingChallenge.exe
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\bin\Debug\net8.0\ThreadingChallenge.deps.json
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\bin\Debug\net8.0\ThreadingChallenge.runtimeconfig.json
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\bin\Debug\net8.0\ThreadingChallenge.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\bin\Debug\net8.0\ThreadingChallenge.pdb
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.AssemblyInfoInputs.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.AssemblyInfo.cs
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\refint\ThreadingChallenge.dll
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.pdb
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ThreadingChallenge.genruntimeconfig.cache
+C:\Users\Ellen\Documents\ATU Sligo\Year4\AP\ThreadingChallenge\obj\Debug\net8.0\ref\ThreadingChallenge.dll
