@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfRevisionApp/1.0.0": {
+        "runtime": {
+          "WpfRevisionApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfRevisionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
